@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Mouse",
+    "detail": "Ergonomic wireless mouse with adjustable DPI and USB receiver.",
+    "price": 25,
+    "image": "/images/wireless-mouse.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Gaming Keyboard",
+    "detail": "Mechanical RGB gaming keyboard with blue switches.",
+    "price": 75,
+    "image": "/images/gaming-keyboard.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Bluetooth Speaker",
+    "detail": "Portable waterproof Bluetooth speaker with deep bass.",
+    "price": 45,
+    "image": "/images/bluetooth-speaker.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Smart Watch",
+    "detail": "Fitness tracking smartwatch with heart rate monitor.",
+    "price": 120,
+    "image": "/images/smart-watch.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Laptop Backpack",
+    "detail": "Water-resistant backpack for laptops up to 15.6 inches.",
+    "price": 40,
+    "image": "/images/laptop-backpack.jpg"
+  },
+  {
+    "id": 6,
+    "name": "USB-C Charger",
+    "detail": "Fast charging 65W USB-C wall charger.",
+    "price": 30,
+    "image": "/images/usb-c-charger.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Noise Cancelling Headphones",
+    "detail": "Over-ear headphones with active noise cancellation.",
+    "price": 150,
+    "image": "/images/noise-cancelling-headphones.jpg"
+  },
+  {
+    "id": 8,
+    "name": "4K Monitor",
+    "detail": "27-inch UHD 4K monitor with HDR support.",
+    "price": 320,
+    "image": "/images/4k-monitor.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Wireless Earbuds",
+    "detail": "True wireless earbuds with charging case.",
+    "price": 60,
+    "image": "/images/wireless-earbuds.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Gaming Chair",
+    "detail": "Adjustable ergonomic gaming chair with lumbar support.",
+    "price": 210,
+    "image": "/images/gaming-chair.jpg"
+  },
+  {
+    "id": 11,
+    "name": "External SSD",
+    "detail": "1TB portable SSD with USB 3.2 support.",
+    "price": 130,
+    "image": "/images/external-ssd.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Webcam",
+    "detail": "1080p HD webcam with built-in microphone.",
+    "price": 55,
+    "image": "/images/webcam.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Office Desk",
+    "detail": "Modern wooden office desk with storage drawer.",
+    "price": 180,
+    "image": "/images/office-desk.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Fitness Band",
+    "detail": "Lightweight fitness tracker with sleep monitoring.",
+    "price": 35,
+    "image": "/images/fitness-band.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Phone Stand",
+    "detail": "Adjustable aluminum phone stand for desk setup.",
+    "price": 15,
+    "image": "/images/phone-stand.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Portable Power Bank",
+    "detail": "20000mAh fast charging power bank.",
+    "price": 50,
+    "image": "/images/power-bank.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Smart LED Bulb",
+    "detail": "WiFi-enabled RGB smart bulb compatible with Alexa.",
+    "price": 20,
+    "image": "/images/smart-led-bulb.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Tablet",
+    "detail": "10-inch Android tablet with 128GB storage.",
+    "price": 250,
+    "image": "/images/tablet.jpg"
+  },
+  {
+    "id": 19,
+    "name": "DSLR Camera",
+    "detail": "Professional DSLR camera with 24MP sensor.",
+    "price": 850,
+    "image": "/images/dslr-camera.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Tripod Stand",
+    "detail": "Lightweight adjustable tripod for cameras and phones.",
+    "price": 45,
+    "image": "/images/tripod-stand.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Graphic Tablet",
+    "detail": "Digital drawing tablet for designers and artists.",
+    "price": 95,
+    "image": "/images/graphic-tablet.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Router",
+    "detail": "Dual-band WiFi 6 router with high-speed connectivity.",
+    "price": 110,
+    "image": "/images/router.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Air Fryer",
+    "detail": "Oil-free air fryer with digital display.",
+    "price": 140,
+    "image": "/images/air-fryer.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Coffee Maker",
+    "detail": "Automatic coffee maker with timer function.",
+    "price": 90,
+    "image": "/images/coffee-maker.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Electric Kettle",
+    "detail": "Stainless steel electric kettle with auto shut-off.",
+    "price": 35,
+    "image": "/images/electric-kettle.jpg"
+  },
+  {
+    "id": 26,
+    "name": "Vacuum Cleaner",
+    "detail": "Cordless vacuum cleaner with strong suction power.",
+    "price": 220,
+    "image": "/images/vacuum-cleaner.jpg"
+  },
+  {
+    "id": 27,
+    "name": "Action Camera",
+    "detail": "4K waterproof action camera for outdoor adventures.",
+    "price": 170,
+    "image": "/images/action-camera.jpg"
+  },
+  {
+    "id": 28,
+    "name": "Running Shoes",
+    "detail": "Breathable lightweight running shoes for men.",
+    "price": 80,
+    "image": "/images/running-shoes.jpg"
+  },
+  {
+    "id": 29,
+    "name": "Leather Wallet",
+    "detail": "Premium leather wallet with RFID protection.",
+    "price": 28,
+    "image": "/images/leather-wallet.jpg"
+  },
+  {
+    "id": 30,
+    "name": "Sunglasses",
+    "detail": "UV-protected polarized sunglasses.",
+    "price": 25,
+    "image": "/images/sunglasses.jpg"
+  },
+  {
+    "id": 31,
+    "name": "Smartphone",
+    "detail": "6.7-inch smartphone with AMOLED display and 5G.",
+    "price": 699,
+    "image": "/images/smartphone.jpg"
+  },
+  {
+    "id": 32,
+    "name": "Laptop",
+    "detail": "14-inch ultrabook with Intel i7 and 16GB RAM.",
+    "price": 1100,
+    "image": "/images/laptop.jpg"
+  },
+  {
+    "id": 33,
+    "name": "Monitor Arm",
+    "detail": "Adjustable monitor arm for dual-screen setups.",
+    "price": 65,
+    "image": "/images/monitor-arm.jpg"
+  },
+  {
+    "id": 34,
+    "name": "Microphone",
+    "detail": "USB condenser microphone for streaming and podcasts.",
+    "price": 85,
+    "image": "/images/microphone.jpg"
+  },
+  {
+    "id": 35,
+    "name": "Mechanical Pencil",
+    "detail": "Premium metal mechanical pencil for sketching.",
+    "price": 12,
+    "image": "/images/mechanical-pencil.jpg"
+  },
+  {
+    "id": 36,
+    "name": "Yoga Mat",
+    "detail": "Non-slip yoga mat with extra cushioning.",
+    "price": 32,
+    "image": "/images/yoga-mat.jpg"
+  },
+  {
+    "id": 37,
+    "name": "Water Bottle",
+    "detail": "Insulated stainless steel water bottle.",
+    "price": 22,
+    "image": "/images/water-bottle.jpg"
+  },
+  {
+    "id": 38,
+    "name": "Desk Lamp",
+    "detail": "LED desk lamp with brightness adjustment.",
+    "price": 38,
+    "image": "/images/desk-lamp.jpg"
+  },
+  {
+    "id": 39,
+    "name": "Printer",
+    "detail": "Wireless all-in-one inkjet printer.",
+    "price": 175,
+    "image": "/images/printer.jpg"
+  },
+  {
+    "id": 40,
+    "name": "Projector",
+    "detail": "Full HD home theater projector with HDMI support.",
+    "price": 450,
+    "image": "/images/projector.jpg"
+  }
+]
