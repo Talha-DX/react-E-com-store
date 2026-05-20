@@ -14,9 +14,13 @@ import { fetchData } from './Features/Product/Products.jsx'
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
 
 const App = () => {
+  const theme = useSelector((state) => state.theme.color);
 
   return (
-    <div>
+    <div className={theme === 'black' ?
+      'bg-gray-900 transition-colors duration-700 text-white' :
+      'bg-white transition-colors duration-700 text-gray-900'}>
+        
       <BrowserRouter>
         <Routes>
           <Route path='/' element={<Home />} />

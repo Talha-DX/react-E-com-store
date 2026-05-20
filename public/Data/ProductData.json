@@ -1,17 +1,17 @@
 [
-  {
+    {
     "id": 1,
     "name": "Wireless Mouse",
     "detail": "Ergonomic wireless mouse with adjustable DPI and USB receiver.",
     "price": 25,
-    "image": "/images/wireless-mouse.jpg"
+    "image": "/assets/FrontImage/Shoe.jpeg"
   },
   {
     "id": 2,
     "name": "Gaming Keyboard",
     "detail": "Mechanical RGB gaming keyboard with blue switches.",
     "price": 75,
-    "image": "/images/gaming-keyboard.jpg"
+    "image": "/assets/FrontImage/Shoe1.jpeg"
   },
   {
     "id": 3,
