@@ -129,7 +129,7 @@ const NavBar = () => {
 
                             {/* User Icon */}
                             <div className="relative group">
-                                <Link to="/profile">
+                                <Link to="/">
                                     <div className="p-2 rounded-full hover:bg-gray-100 dark:hover:bg-gray-800 transition-all duration-300">
                                         <FaUser size={20} className="hover:scale-110 transition-transform" />
                                     </div>
@@ -137,7 +137,7 @@ const NavBar = () => {
                             </div>
 
                             {/* Theme Toggle */}
-                            <button
+                            {/* <button
                                 onClick={() => dispatch(changeColor())}
                                 className={`
                                     p-2 rounded-full transition-all duration-300
@@ -153,7 +153,7 @@ const NavBar = () => {
                                 ) : (
                                     <FaMoon size={20} className="animate-bounce-slow" />
                                 )}
-                            </button>
+                            </button> */}
 
                             {/* Mobile Menu Button */}
                             <button

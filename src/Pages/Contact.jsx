@@ -217,7 +217,7 @@ const Contact = () => {
                           name="name"
                           value={formData.name}
                           onChange={handleChange}
-                          className={`w-full px-4 py-2 border ${errors.name ? 'border-red-500' : 'border-gray-300'} rounded-lg focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500 transition-colors`}
+                          className={`w-full px-4 py-2 border ${errors.name ? 'border-red-500' : 'border-gray-300'} text-black rounded-lg focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500 transition-colors`}
                           placeholder="Enter your full name"
                         />
                         {errors.name && (
@@ -235,7 +235,7 @@ const Contact = () => {
                           name="email"
                           value={formData.email}
                           onChange={handleChange}
-                          className={`w-full px-4 py-2 border ${errors.email ? 'border-red-500' : 'border-gray-300'} rounded-lg focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500 transition-colors`}
+                          className={`w-full px-4 py-2 border ${errors.email ? 'border-red-500' : 'border-gray-300'} text-black rounded-lg focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500 transition-colors`}
                           placeholder="Enter your email"
                         />
                         {errors.email && (
@@ -254,7 +254,7 @@ const Contact = () => {
                         name="subject"
                         value={formData.subject}
                         onChange={handleChange}
-                        className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500 transition-colors"
+                        className="w-full px-4 py-2 border border-gray-300 text-black rounded-lg focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500 transition-colors"
                         placeholder="What is this regarding?"
                       />
                     </div>
@@ -269,7 +269,7 @@ const Contact = () => {
                         rows="5"
                         value={formData.message}
                         onChange={handleChange}
-                        className={`w-full px-4 py-2 border ${errors.message ? 'border-red-500' : 'border-gray-300'} rounded-lg focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500 transition-colors`}
+                        className={`w-full px-4 py-2 border ${errors.message ? 'border-red-500' : 'border-gray-300'} text-black rounded-lg focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500 transition-colors`}
                         placeholder="Tell us how we can help you..."
                       ></textarea>
                       {errors.message && (
